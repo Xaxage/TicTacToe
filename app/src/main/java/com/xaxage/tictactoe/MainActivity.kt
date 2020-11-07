@@ -1,4 +1,4 @@
-package com.xaxage.sponboza
+package com.xaxage.tictactoe
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
